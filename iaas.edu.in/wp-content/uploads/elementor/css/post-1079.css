@@ -1,0 +1,27 @@
+.elementor-1079 .elementor-element.elementor-element-312afb9:not(.elementor-motion-effects-element-type-background),
+.elementor-1079 .elementor-element.elementor-element-312afb9>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #120E3F;
+}
+
+.elementor-1079 .elementor-element.elementor-element-312afb9 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 0px 20px 0px;
+}
+
+.elementor-1079 .elementor-element.elementor-element-312afb9>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1079 .elementor-element.elementor-element-3e2781b .hfe-copyright-wrapper {
+    text-align: center;
+}
+
+.elementor-1079 .elementor-element.elementor-element-3e2781b .hfe-copyright-wrapper a,
+.elementor-1079 .elementor-element.elementor-element-3e2781b .hfe-copyright-wrapper {
+    color: #FFFFFF;
+}
+
+.elementor-1079 .elementor-element.elementor-element-3e2781b .hfe-copyright-wrapper,
+.elementor-1079 .elementor-element.elementor-element-3e2781b .hfe-copyright-wrapper a {
+    font-weight: 500;
+}
